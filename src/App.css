@@ -1,0 +1,18 @@
+.main__blocks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.block{
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
